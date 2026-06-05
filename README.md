@@ -7,6 +7,10 @@
 </h1>
 
 
+>[!TIP]
+> 🌟 **Support matters!** If you find any of these projects useful or interesting, please consider giving them a **star ⭐**. Every bit of encouragement helps me keep building awesome things 🚀. Thanks for your support! 🙌
+
+
 ###
 
 <!-- Lenguajes, Herramientas y Plataformas -->
@@ -31,10 +35,6 @@
 >[!NOTE]
 > 📝 Above this note, I've listed all the programming languages and technologies I've used in my life so far.
 
-###
-
-<!-- Grafico de actividad GitHub -->
-[![Remi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsremiofficial&bg_color=00151f&color=20779d&line=00b3ff&point=90ddfe&area=true&hide_border=true)](https://github.com/itsremiofficial)
 
 ###
 
@@ -49,3 +49,6 @@
 </a>
 
 ###
+
+<!-- Grafico de actividad GitHub -->
+[![Remi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsremiofficial&bg_color=00151f&color=20779d&line=00b3ff&point=90ddfe&area=true&hide_border=true)](https://github.com/itsremiofficial)
