@@ -4,9 +4,7 @@
 
 <!-- Mensaje bienvenida -->
 <h1 align="center">
-  <a href="https://github.com/itsremiofficial/">
-    <img src="https://readme-typing-svg.demolab.com/demo/?color=00B3FF&center=true&vCenter=true&lines=Front-End+Engineer;Visual+Designer;Digital+Marketing+Strategist&center=true&size=36&color=39FF14&width=1000&pause=1000&duration=2500&startDelay=300&v=4">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=435&lines=Front-End+Engineer;Visual+Designer;Digital+Marketing+Strategist" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -36,7 +34,7 @@
 ###
 
 <!-- Grafico de actividad GitHub -->
-[![Remi's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsremiofficial&bg_color=2a4555&color=00b3ff&line=00b3ff&point=94dfff&area=true&hide_border=true)](https://github.com/itsremiofficial)
+[![Remi's Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsremiofficial&bg_color=001d29&color=20779d&line=00b3ff&point=90ddfe&area=true&hide_border=true)](https://github.com/itsremiofficial)
 
 ###
 
