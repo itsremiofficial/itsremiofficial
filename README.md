@@ -6,11 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=435&lines=Front-End+Engineer;Visual+Designer;Digital+Marketing+Strategist" alt="Typing SVG" /></a>
 </h1>
 
-
->[!TIP]
-> 🌟 **Support matters!** If you find any of these projects useful or interesting, please consider giving them a **star ⭐**. Every bit of encouragement helps me keep building awesome things 🚀. Thanks for your support! 🙌
-
-
 ###
 
 <!-- Lenguajes, Herramientas y Plataformas -->
