@@ -15,16 +15,16 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Fila 1 -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,cs,java,matlab,r" />
+    <img src="https://skillicons.dev/icons?i=express,html,js,md,mongodb,mysql,nextjs,nodejs,npm,react,supabase,threejs,ts,vercel,vite" />
     <br/>
     <!-- Fila 2 -->
-    <img src="https://skillicons.dev/icons?i=latex,bash,cmake,php,nodejs,git,mysql,sqlite,mongodb,dotnet" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,pr,ai,ae" />
     <br/>
     <!-- Fila 3 -->
-    <img src="https://skillicons.dev/icons?i=raspberrypi,powershell,bootstrap,jquery,windows,ubuntu,debian,kali,linux,arch" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,materialui,sass,tailwind,svg" />
     <br/>
     <!-- Fila 4 -->
-    <img src="https://skillicons.dev/icons?i=wordpress,clion,visualstudio,vscode,github,stackoverflow,markdown,instagram,twitter,linkedin" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,discord,github,git,notion," />
   </a>
 </p>
 
